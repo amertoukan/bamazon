@@ -1,0 +1,40 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "The app will take in orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amertoukan/bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "customer",
+    "node",
+    "mysql",
+    "database",
+    "app",
+    "inventory",
+    "deplete",
+    "stock",
+    "store",
+    "order",
+    "amazon",
+    "inquirer",
+    "CLI"
+  ],
+  "author": "Amer Toukan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amertoukan/bamazon/issues"
+  },
+  "homepage": "https://github.com/amertoukan/bamazon#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
