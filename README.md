@@ -27,8 +27,8 @@ You can use ````npm install````  to download all dependencies needed.
 <li> inquirer </li> 
 <li> dotenv </li> 
 <h3> DEMO </h3> 
-![bamazonCustomer(1)](bamazonCustomer(1).PDF)
-![bamazonCustomer(2)](bamazonCustomer(2).PDF)
-![bamazonCustomer(3)](bamazonCustomer(3).PDF)
-![mySQLtable(1)](mySQLtable(1).PDF)
-![mySQL(2)] (mySQL(2).PDF)}
+
+
+![bamazonCustomer1](images/bamazonCustomer1.png)
+
+![bamazonCustomer2](images/bamazonCustomer2.png)
